@@ -205,6 +205,7 @@
   padding: 5em;
 }
 .tecnologi-cards{
+  margin-bottom: 80px;
   display: flex;
   flex-direction: row;
   justify-content: center;
